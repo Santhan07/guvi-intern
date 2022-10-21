@@ -1,0 +1,26 @@
+.container{
+    padding: 5%;
+}
+
+.title{
+    text-align: center;
+}
+
+.my-profile-pic{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.details{
+    margin: auto;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.home{
+    text-align: center;
+    margin: 10%;
+    font-weight: bold;
+}

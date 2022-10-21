@@ -1,0 +1,28 @@
+.container{
+    padding: 5%;
+}
+
+.login-page{
+    text-align: center;
+    margin: 10% auto;
+}
+
+.login-pic{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 5%;
+}
+
+.form-control{
+    margin: 15px auto;
+}
+
+.back-btn{
+    text-align: left;
+}
+
+.submit-btn{
+    margin: 5% auto;
+}
